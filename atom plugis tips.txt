@@ -1,0 +1,9 @@
+simple-drag-drop
+emmet
+linter
+autocomplete-modules
+atom-beautify
+autoclose-html
+minimap
+minimap-highlight-selected
+simple-drag-drop-text
